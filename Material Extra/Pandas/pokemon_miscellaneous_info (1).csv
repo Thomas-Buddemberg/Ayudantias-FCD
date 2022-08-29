@@ -1,0 +1,1046 @@
+Number,Name,EV_yield,CatchRate,BaseFriendship,GrowthRate,EggCycle,PecentageMale
+1,Bulbasaur,1 Special Attack,45,50,Medium Slow,20,87.5
+2,Ivysaur,"1 Special Attack, 1 Special Defense",45,50,Medium Slow,20,87.5
+3,Venusaur,"2 Special Attack, 1 Special Defense",45,50,Medium Slow,20,87.5
+3,Mega Venusaur,"2 Special Attack, 1 Special Defense",45,50,Medium Slow,20,87.5
+4,Charmander,1 Speed,45,50,Medium Slow,20,87.5
+5,Charmeleon,"1 Special Attack, 1 Speed",45,50,Medium Slow,20,87.5
+6,Charizard,3 Special Attack,45,50,Medium Slow,20,87.5
+6,Mega Charizard X,3 Special Attack,45,50,Medium Slow,20,87.5
+6,Mega Charizard Y,3 Special Attack,45,50,Medium Slow,20,87.5
+7,Squirtle,1 Defense,45,50,Medium Slow,20,87.5
+8,Wartortle,"1 Defense, 1 Special Defense",45,50,Medium Slow,20,87.5
+9,Blastoise,3 Special Defense,45,50,Medium Slow,20,87.5
+9,Mega Blastoise,3 Special Defense,45,50,Medium Slow,20,87.5
+10,Caterpie,1 HP,255,50,Medium Fast,15,50.0
+11,Metapod,2 Defense,120,50,Medium Fast,15,50.0
+12,Butterfree,"2 Special Attack, 1 Special Defense",45,50,Medium Fast,15,50.0
+13,Weedle,1 Speed,255,50,Medium Fast,15,50.0
+14,Kakuna,2 Defense,120,50,Medium Fast,15,50.0
+15,Beedrill,"2 Attack, 1 Special Defense",45,50,Medium Fast,15,50.0
+15,Mega Beedrill,"2 Attack, 1 Special Defense",45,50,Medium Fast,15,50.0
+16,Pidgey,1 Speed,255,50,Medium Slow,15,50.0
+17,Pidgeotto,2 Speed,120,50,Medium Slow,15,50.0
+18,Pidgeot,3 Speed,45,50,Medium Slow,15,50.0
+18,Mega Pidgeot,3 Speed,45,50,Medium Slow,15,50.0
+19,Rattata,1 Speed,255,50,Medium Fast,15,50.0
+19,Alolan Rattata,1 Speed,255,50,Medium Fast,15,50.0
+20,Raticate,2 Speed,127,50,Medium Fast,15,50.0
+20,Alolan Raticate,2 Speed,127,50,Medium Fast,15,50.0
+21,Spearow,1 Speed,255,50,Medium Fast,15,50.0
+22,Fearow,2 Speed,90,50,Medium Fast,15,50.0
+23,Ekans,1 Attack,255,50,Medium Fast,20,50.0
+24,Arbok,2 Attack,90,50,Medium Fast,20,50.0
+25,Pikachu,2 Speed,190,50,Medium Fast,10,50.0
+25,Partner Pikachu,2 Speed,190,50,Medium Fast,10,50.0
+26,Raichu,3 Speed,75,50,Medium Fast,10,50.0
+26,Alolan Raichu,3 Speed,75,50,Medium Fast,10,50.0
+27,Sandshrew,1 Defense,255,50,Medium Fast,20,50.0
+27,Alolan Sandshrew,1 Defense,255,50,Medium Fast,20,50.0
+28,Sandslash,2 Defense,90,50,Medium Fast,20,50.0
+28,Alolan Sandslash,2 Defense,90,50,Medium Fast,20,50.0
+29,Nidoran♀,1 HP,235,50,Medium Slow,20,0.0
+30,Nidorina,2 HP,120,50,Medium Slow,20,0.0
+31,Nidoqueen,3 HP,45,50,Medium Slow,20,0.0
+32,Nidoran♂,1 Attack,235,50,Medium Slow,20,100.0
+33,Nidorino,2 Attack,120,50,Medium Slow,20,100.0
+34,Nidoking,3 Attack,45,50,Medium Slow,20,100.0
+35,Clefairy,2 HP,150,140,Fast,10,25.0
+36,Clefable,3 HP,25,140,Fast,10,25.0
+37,Vulpix,1 Speed,190,50,Medium Fast,20,25.0
+37,Alolan Vulpix,1 Speed,190,50,Medium Fast,20,25.0
+38,Ninetales,"1 Special Defense, 1 Speed",75,50,Medium Fast,20,25.0
+38,Alolan Ninetales,"1 Special Defense, 1 Speed",75,50,Medium Fast,20,25.0
+39,Jigglypuff,2 HP,170,50,Fast,10,25.0
+40,Wigglytuff,3 HP,50,50,Fast,10,25.0
+41,Zubat,1 Speed,255,50,Medium Fast,15,50.0
+42,Golbat,2 Speed,90,50,Medium Fast,15,50.0
+43,Oddish,1 Special Attack,255,50,Medium Slow,20,50.0
+44,Gloom,2 Special Attack,120,50,Medium Slow,20,50.0
+45,Vileplume,3 Special Attack,45,50,Medium Slow,20,50.0
+46,Paras,1 Attack,190,50,Medium Fast,20,50.0
+47,Parasect,"2 Attack, 1 Defense",75,50,Medium Fast,20,50.0
+48,Venonat,1 Special Defense,190,50,Medium Fast,20,50.0
+49,Venomoth,"1 Special Attack, 1 Speed",75,50,Medium Fast,20,50.0
+50,Diglett,1 Speed,255,50,Medium Fast,20,50.0
+50,Alolan Diglett,1 Speed,255,50,Medium Fast,20,50.0
+51,Dugtrio,2 Speed,50,50,Medium Fast,20,50.0
+51,Alolan Dugtrio,2 Speed,50,50,Medium Fast,20,50.0
+52,Meowth,1 Speed,255,50,Medium Fast,20,50.0
+52,Alolan Meowth,1 Speed,255,50,Medium Fast,20,50.0
+52,Galarian Meowth,1 Speed,255,50,Medium Fast,20,50.0
+53,Persian,2 Speed,90,50,Medium Fast,20,50.0
+53,Alolan Persian,2 Speed,90,50,Medium Fast,20,50.0
+54,Psyduck,1 Special Attack,190,50,Medium Fast,20,50.0
+55,Golduck,2 Special Attack,75,50,Medium Fast,20,50.0
+56,Mankey,1 Attack,190,50,Medium Fast,20,50.0
+57,Primeape,2 Attack,75,50,Medium Fast,20,50.0
+58,Growlithe,1 Attack,190,50,Slow,20,75.0
+59,Arcanine,2 Attack,75,50,Slow,20,75.0
+60,Poliwag,1 Speed,255,50,Medium Slow,20,50.0
+61,Poliwhirl,2 Speed,120,50,Medium Slow,20,50.0
+62,Poliwrath,3 Defense,45,50,Medium Slow,20,50.0
+63,Abra,1 Special Attack,200,50,Medium Slow,20,75.0
+64,Kadabra,2 Special Attack,100,50,Medium Slow,20,75.0
+65,Alakazam,3 Special Attack,50,50,Medium Slow,20,75.0
+65,Mega Alakazam,3 Special Attack,50,50,Medium Slow,20,75.0
+66,Machop,1 Attack,180,50,Medium Slow,20,75.0
+67,Machoke,2 Attack,90,50,Medium Slow,20,75.0
+68,Machamp,3 Attack,45,50,Medium Slow,20,75.0
+69,Bellsprout,1 Attack,255,50,Medium Slow,20,50.0
+70,Weepinbell,2 Attack,120,50,Medium Slow,20,50.0
+71,Victreebel,3 Attack,45,50,Medium Slow,20,50.0
+72,Tentacool,1 Special Defense,190,50,Slow,20,50.0
+73,Tentacruel,2 Special Defense,60,50,Slow,20,50.0
+74,Geodude,1 Defense,255,50,Medium Slow,15,50.0
+74,Alolan Geodude,1 Defense,255,50,Medium Slow,15,50.0
+75,Graveler,2 Defense,120,50,Medium Slow,15,50.0
+75,Alolan Graveler,2 Defense,120,50,Medium Slow,15,50.0
+76,Golem,3 Defense,45,50,Medium Slow,15,50.0
+76,Alolan Golem,3 Defense,45,50,Medium Slow,15,50.0
+77,Ponyta,1 Speed,190,50,Medium Fast,20,50.0
+77,Galarian Ponyta,1 Speed,190,50,Medium Fast,20,50.0
+78,Rapidash,2 Speed,60,50,Medium Fast,20,50.0
+78,Galarian Rapidash,2 Speed,60,50,Medium Fast,20,50.0
+79,Slowpoke,1 HP,190,50,Medium Fast,20,50.0
+79,Galarian Slowpoke,1 HP,190,50,Medium Fast,20,50.0
+80,Slowbro,2 Defense,75,50,Medium Fast,20,50.0
+80,Mega Slowbro,2 Defense,75,50,Medium Fast,20,50.0
+80,Galarian Slowbro,2 Defense,75,50,Medium Fast,20,50.0
+81,Magnemite,1 Special Attack,190,50,Medium Fast,20,
+82,Magneton,2 Special Attack,60,50,Medium Fast,20,
+83,Farfetch'd,1 Attack,45,50,Medium Fast,20,50.0
+83,Galarian Farfetch'd,1 Attack,45,50,Medium Fast,20,50.0
+84,Doduo,1 Attack,190,50,Medium Fast,20,50.0
+85,Dodrio,2 Attack,45,50,Medium Fast,20,50.0
+86,Seel,1 Special Defense,190,50,Medium Fast,20,50.0
+87,Dewgong,2 Special Defense,75,50,Medium Fast,20,50.0
+88,Grimer,1 HP,190,50,Medium Fast,20,50.0
+88,Alolan Grimer,1 HP,190,50,Medium Fast,20,50.0
+89,Muk,"1 HP, 1 Attack",75,50,Medium Fast,20,50.0
+89,Alolan Muk,"1 HP, 1 Attack",75,50,Medium Fast,20,50.0
+90,Shellder,1 Defense,190,50,Slow,20,50.0
+91,Cloyster,2 Defense,60,50,Slow,20,50.0
+92,Gastly,1 Special Attack,190,50,Medium Slow,20,50.0
+93,Haunter,2 Special Attack,90,50,Medium Slow,20,50.0
+94,Gengar,3 Special Attack,45,50,Medium Slow,20,50.0
+94,Mega Gengar,3 Special Attack,45,50,Medium Slow,20,50.0
+95,Onix,1 Defense,45,50,Medium Fast,25,50.0
+96,Drowzee,1 Special Defense,190,50,Medium Fast,20,50.0
+97,Hypno,2 Special Defense,75,50,Medium Fast,20,50.0
+98,Krabby,1 Attack,225,50,Medium Fast,20,50.0
+99,Kingler,2 Attack,60,50,Medium Fast,20,50.0
+100,Voltorb,1 Speed,190,50,Medium Fast,20,
+101,Electrode,2 Speed,60,50,Medium Fast,20,
+102,Exeggcute,1 Defense,90,50,Slow,20,50.0
+103,Exeggutor,2 Special Attack,45,50,Slow,20,50.0
+103,Alolan Exeggutor,2 Special Attack,45,50,Slow,20,50.0
+104,Cubone,1 Defense,190,50,Medium Fast,20,50.0
+105,Marowak,2 Defense,75,50,Medium Fast,20,50.0
+105,Alolan Marowak,2 Defense,75,50,Medium Fast,20,50.0
+106,Hitmonlee,2 Attack,45,50,Medium Fast,25,100.0
+107,Hitmonchan,2 Special Defense,45,50,Medium Fast,25,100.0
+108,Lickitung,2 HP,45,50,Medium Fast,20,50.0
+109,Koffing,1 Defense,190,50,Medium Fast,20,50.0
+110,Weezing,2 Defense,60,50,Medium Fast,20,50.0
+110,Galarian Weezing,2 Defense,60,50,Medium Fast,20,50.0
+111,Rhyhorn,1 Defense,120,50,Slow,20,50.0
+112,Rhydon,2 Attack,60,50,Slow,20,50.0
+113,Chansey,2 HP,30,140,Fast,40,0.0
+114,Tangela,1 Defense,45,50,Medium Fast,20,50.0
+115,Kangaskhan,2 HP,45,50,Medium Fast,20,0.0
+115,Mega Kangaskhan,2 HP,45,50,Medium Fast,20,0.0
+116,Horsea,1 Special Attack,225,50,Medium Fast,20,50.0
+117,Seadra,"1 Defense, 1 Special Attack",75,50,Medium Fast,20,50.0
+118,Goldeen,1 Attack,225,50,Medium Fast,20,50.0
+119,Seaking,2 Attack,60,50,Medium Fast,20,50.0
+120,Staryu,1 Speed,225,50,Slow,20,
+121,Starmie,2 Speed,60,50,Slow,20,
+122,Mr. Mime,2 Special Defense,45,50,Medium Fast,25,50.0
+122,Galarian Mr. Mime,2 Special Defense,45,50,Medium Fast,25,50.0
+123,Scyther,1 Attack,45,50,Medium Fast,25,50.0
+124,Jynx,2 Special Attack,45,50,Medium Fast,25,0.0
+125,Electabuzz,2 Speed,45,50,Medium Fast,25,75.0
+126,Magmar,2 Special Attack,45,50,Medium Fast,25,75.0
+127,Pinsir,2 Attack,45,50,Slow,25,50.0
+127,Mega Pinsir,2 Attack,45,50,Slow,25,50.0
+128,Tauros,"1 Attack, 1 Speed",45,50,Slow,20,100.0
+129,Magikarp,1 Speed,255,50,Slow,5,50.0
+130,Gyarados,2 Attack,45,50,Slow,5,50.0
+130,Mega Gyarados,2 Attack,45,50,Slow,5,50.0
+131,Lapras,2 HP,45,50,Slow,40,50.0
+132,Ditto,1 HP,35,50,Medium Fast,20,
+133,Eevee,1 Special Defense,45,50,Medium Fast,35,87.5
+133,Partner Eevee,1 Special Defense,45,50,Medium Fast,35,87.5
+134,Vaporeon,2 HP,45,50,Medium Fast,35,87.5
+135,Jolteon,2 Speed,45,50,Medium Fast,35,87.5
+136,Flareon,2 Attack,45,50,Medium Fast,35,87.5
+137,Porygon,1 Special Attack,45,50,Medium Fast,20,
+138,Omanyte,1 Defense,45,50,Medium Fast,30,87.5
+139,Omastar,2 Defense,45,50,Medium Fast,30,87.5
+140,Kabuto,1 Defense,45,50,Medium Fast,30,87.5
+141,Kabutops,2 Attack,45,50,Medium Fast,30,87.5
+142,Aerodactyl,2 Speed,45,50,Slow,35,87.5
+142,Mega Aerodactyl,2 Speed,45,50,Slow,35,87.5
+143,Snorlax,2 HP,25,50,Slow,40,87.5
+144,Articuno,3 Special Defense,3,35,Slow,80,
+144,Galarian Articuno,3 Special Defense,3,35,Slow,80,
+145,Zapdos,3 Special Attack,3,35,Slow,80,
+145,Galarian Zapdos,3 Special Attack,3,35,Slow,80,
+146,Moltres,3 Special Attack,3,35,Slow,80,
+146,Galarian Moltres,3 Special Attack,3,35,Slow,80,
+147,Dratini,1 Attack,45,35,Slow,40,50.0
+148,Dragonair,2 Attack,45,35,Slow,40,50.0
+149,Dragonite,3 Attack,45,35,Slow,40,50.0
+150,Mewtwo,3 Special Attack,3,0,Slow,120,
+150,Mega Mewtwo X,3 Special Attack,3,0,Slow,120,
+150,Mega Mewtwo Y,3 Special Attack,3,0,Slow,120,
+151,Mew,3 HP,45,100,Medium Slow,120,
+152,Chikorita,1 Special Defense,45,50,Medium Slow,20,87.5
+153,Bayleef,"1 Defense, 1 Special Defense",45,50,Medium Slow,20,87.5
+154,Meganium,"1 Defense, 2 Special Defense",45,50,Medium Slow,20,87.5
+155,Cyndaquil,1 Speed,45,50,Medium Slow,20,87.5
+156,Quilava,"1 Special Attack, 1 Speed",45,50,Medium Slow,20,87.5
+157,Typhlosion,3 Special Attack,45,50,Medium Slow,20,87.5
+158,Totodile,1 Attack,45,50,Medium Slow,20,87.5
+159,Croconaw,"1 Attack, 1 Defense",45,50,Medium Slow,20,87.5
+160,Feraligatr,"2 Attack, 1 Defense",45,50,Medium Slow,20,87.5
+161,Sentret,1 Attack,255,50,Medium Fast,15,50.0
+162,Furret,2 Speed,90,50,Medium Fast,15,50.0
+163,Hoothoot,1 HP,255,50,Medium Fast,15,50.0
+164,Noctowl,2 HP,90,50,Medium Fast,15,50.0
+165,Ledyba,1 Special Defense,255,50,Fast,15,50.0
+166,Ledian,2 Special Defense,90,50,Fast,15,50.0
+167,Spinarak,1 Attack,255,50,Fast,15,50.0
+168,Ariados,2 Attack,90,50,Fast,15,50.0
+169,Crobat,3 Speed,90,50,Medium Fast,15,50.0
+170,Chinchou,1 HP,190,50,Slow,20,50.0
+171,Lanturn,2 HP,75,50,Slow,20,50.0
+172,Pichu,1 Speed,190,50,Medium Fast,10,50.0
+173,Cleffa,1 Special Defense,150,140,Fast,10,25.0
+174,Igglybuff,1 HP,170,50,Fast,10,25.0
+175,Togepi,1 Special Defense,190,50,Fast,10,87.5
+176,Togetic,2 Special Defense,75,50,Fast,10,87.5
+177,Natu,1 Special Attack,190,50,Medium Fast,20,50.0
+178,Xatu,"1 Special Attack, 1 Speed",75,50,Medium Fast,20,50.0
+179,Mareep,1 Special Attack,235,50,Medium Slow,20,50.0
+180,Flaaffy,2 Special Attack,120,50,Medium Slow,20,50.0
+181,Ampharos,3 Special Attack,45,50,Medium Slow,20,50.0
+181,Mega Ampharos,3 Special Attack,45,50,Medium Slow,20,50.0
+182,Bellossom,3 Special Defense,45,50,Medium Slow,20,50.0
+183,Marill,2 HP,190,50,Fast,10,50.0
+184,Azumarill,3 HP,75,50,Fast,10,50.0
+185,Sudowoodo,2 Defense,65,50,Medium Fast,20,50.0
+186,Politoed,3 Special Defense,45,50,Medium Slow,20,50.0
+187,Hoppip,1 Special Defense,255,50,Medium Slow,20,50.0
+188,Skiploom,2 Speed,120,50,Medium Slow,20,50.0
+189,Jumpluff,3 Speed,45,50,Medium Slow,20,50.0
+190,Aipom,1 Speed,45,50,Fast,20,50.0
+191,Sunkern,1 Special Attack,235,50,Medium Slow,20,50.0
+192,Sunflora,2 Special Attack,120,50,Medium Slow,20,50.0
+193,Yanma,1 Speed,75,50,Medium Fast,20,50.0
+194,Wooper,1 HP,255,50,Medium Fast,20,50.0
+195,Quagsire,2 HP,90,50,Medium Fast,20,50.0
+196,Espeon,2 Special Attack,45,50,Medium Fast,35,87.5
+197,Umbreon,2 Special Defense,45,35,Medium Fast,35,87.5
+198,Murkrow,1 Speed,30,35,Medium Slow,20,50.0
+199,Slowking,2 Special Defense,70,50,Medium Fast,20,50.0
+199,Galarian Slowking,2 Special Defense,70,50,Medium Fast,20,50.0
+200,Misdreavus,1 Special Defense,45,35,Fast,25,50.0
+201,Unown,"1 Attack, 1 Special Attack",225,50,Medium Fast,40,
+202,Wobbuffet,2 HP,45,50,Medium Fast,20,50.0
+203,Girafarig,2 Special Attack,60,50,Medium Fast,20,50.0
+204,Pineco,1 Defense,190,50,Medium Fast,20,50.0
+205,Forretress,2 Defense,75,50,Medium Fast,20,50.0
+206,Dunsparce,1 HP,190,50,Medium Fast,20,50.0
+207,Gligar,1 Defense,60,50,Medium Slow,20,50.0
+208,Steelix,2 Defense,25,50,Medium Fast,25,50.0
+208,Mega Steelix,2 Defense,25,50,Medium Fast,25,50.0
+209,Snubbull,1 Attack,190,50,Fast,20,25.0
+210,Granbull,2 Attack,75,50,Fast,20,25.0
+211,Qwilfish,1 Attack,45,50,Medium Fast,20,50.0
+212,Scizor,2 Attack,25,50,Medium Fast,25,50.0
+212,Mega Scizor,2 Attack,25,50,Medium Fast,25,50.0
+213,Shuckle,"1 Defense, 1 Special Defense",190,50,Medium Slow,20,50.0
+214,Heracross,2 Attack,45,50,Slow,25,50.0
+214,Mega Heracross,2 Attack,45,50,Slow,25,50.0
+215,Sneasel,1 Speed,60,35,Medium Slow,20,50.0
+216,Teddiursa,1 Attack,120,50,Medium Fast,20,50.0
+217,Ursaring,2 Attack,60,50,Medium Fast,20,50.0
+218,Slugma,1 Special Attack,190,50,Medium Fast,20,50.0
+219,Magcargo,2 Defense,75,50,Medium Fast,20,50.0
+220,Swinub,1 Attack,225,50,Slow,20,50.0
+221,Piloswine,"1 HP, 1 Attack",75,50,Slow,20,50.0
+222,Corsola,"1 Defense, 1 Special Defense",60,50,Fast,20,25.0
+222,Galarian Corsola,"1 Defense, 1 Special Defense",60,50,Fast,20,25.0
+223,Remoraid,1 Special Attack,190,50,Medium Fast,20,50.0
+224,Octillery,"1 Attack, 1 Special Attack",75,50,Medium Fast,20,50.0
+225,Delibird,1 Speed,45,50,Fast,20,50.0
+226,Mantine,2 Special Defense,25,50,Slow,25,50.0
+227,Skarmory,2 Defense,25,50,Slow,25,50.0
+228,Houndour,1 Special Attack,120,35,Slow,20,50.0
+229,Houndoom,2 Special Attack,45,35,Slow,20,50.0
+229,Mega Houndoom,2 Special Attack,45,35,Slow,20,50.0
+230,Kingdra,"1 Attack, 1 Special Attack, 1 Special Defense",45,50,Medium Fast,20,50.0
+231,Phanpy,1 HP,120,50,Medium Fast,20,50.0
+232,Donphan,"1 Attack, 1 Defense",60,50,Medium Fast,20,50.0
+233,Porygon2,2 Special Attack,45,50,Medium Fast,20,
+234,Stantler,1 Attack,45,50,Slow,20,50.0
+235,Smeargle,1 Speed,45,50,Fast,20,50.0
+236,Tyrogue,1 Attack,75,50,Medium Fast,25,100.0
+237,Hitmontop,2 Special Defense,45,50,Medium Fast,25,100.0
+238,Smoochum,1 Special Attack,45,50,Medium Fast,25,0.0
+239,Elekid,1 Speed,45,50,Medium Fast,25,75.0
+240,Magby,1 Speed,45,50,Medium Fast,25,75.0
+241,Miltank,2 Defense,45,50,Slow,20,0.0
+242,Blissey,3 HP,30,140,Fast,40,0.0
+243,Raikou,"1 Special Attack, 2 Speed",3,35,Slow,80,
+244,Entei,"1 HP, 2 Attack",3,35,Slow,80,
+245,Suicune,"1 Defense, 2 Special Defense",3,35,Slow,80,
+246,Larvitar,1 Attack,45,35,Slow,40,50.0
+247,Pupitar,2 Attack,45,35,Slow,40,50.0
+248,Tyranitar,3 Attack,45,35,Slow,40,50.0
+248,Mega Tyranitar,3 Attack,45,35,Slow,40,50.0
+249,Lugia,3 Special Defense,3,0,Slow,120,
+250,Ho-oh,3 Special Defense,3,0,Slow,120,
+251,Celebi,3 HP,45,100,Medium Slow,120,
+252,Treecko,1 Speed,45,50,Medium Slow,20,87.5
+253,Grovyle,2 Speed,45,50,Medium Slow,20,87.5
+254,Sceptile,3 Speed,45,50,Medium Slow,20,87.5
+254,Mega Sceptile,3 Speed,45,50,Medium Slow,20,87.5
+255,Torchic,1 Special Attack,45,50,Medium Slow,20,87.5
+256,Combusken,"1 Attack, 1 Special Attack",45,50,Medium Slow,20,87.5
+257,Blaziken,3 Attack,45,50,Medium Slow,20,87.5
+257,Mega Blaziken,3 Attack,45,50,Medium Slow,20,87.5
+258,Mudkip,1 Attack,45,50,Medium Slow,20,87.5
+259,Marshtomp,2 Attack,45,50,Medium Slow,20,87.5
+260,Swampert,3 Attack,45,50,Medium Slow,20,87.5
+260,Mega Swampert,3 Attack,45,50,Medium Slow,20,87.5
+261,Poochyena,1 Attack,255,50,Medium Fast,15,50.0
+262,Mightyena,2 Attack,127,50,Medium Fast,15,50.0
+263,Zigzagoon,1 Speed,255,50,Medium Fast,15,50.0
+263,Galarian Zigzagoon,1 Speed,255,50,Medium Fast,15,50.0
+264,Linoone,2 Speed,90,50,Medium Fast,15,50.0
+264,Galarian Linoone,2 Speed,90,50,Medium Fast,15,50.0
+265,Wurmple,1 HP,255,50,Medium Fast,15,50.0
+266,Silcoon,2 Defense,120,50,Medium Fast,15,50.0
+267,Beautifly,3 Special Attack,45,50,Medium Fast,15,50.0
+268,Cascoon,2 Defense,120,50,Medium Fast,15,50.0
+269,Dustox,3 Special Defense,45,50,Medium Fast,15,50.0
+270,Lotad,1 Special Defense,255,50,Medium Slow,15,50.0
+271,Lombre,2 Special Defense,120,50,Medium Slow,15,50.0
+272,Ludicolo,3 Special Defense,45,50,Medium Slow,15,50.0
+273,Seedot,1 Defense,255,50,Medium Slow,15,50.0
+274,Nuzleaf,2 Attack,120,50,Medium Slow,15,50.0
+275,Shiftry,3 Attack,45,50,Medium Slow,15,50.0
+276,Taillow,1 Speed,200,50,Medium Slow,15,50.0
+277,Swellow,2 Speed,45,50,Medium Slow,15,50.0
+278,Wingull,1 Speed,190,50,Medium Fast,20,50.0
+279,Pelipper,2 Defense,45,50,Medium Fast,20,50.0
+280,Ralts,1 Special Attack,235,35,Slow,20,50.0
+281,Kirlia,2 Special Attack,120,35,Slow,20,50.0
+282,Gardevoir,3 Special Attack,45,35,Slow,20,50.0
+282,Mega Gardevoir,3 Special Attack,45,35,Slow,20,50.0
+283,Surskit,1 Speed,200,50,Medium Fast,15,50.0
+284,Masquerain,"1 Special Attack, 1 Special Defense",75,50,Medium Fast,15,50.0
+285,Shroomish,1 HP,255,50,Fluctuating,15,50.0
+286,Breloom,2 Attack,90,50,Fluctuating,15,50.0
+287,Slakoth,1 HP,255,50,Slow,15,50.0
+288,Vigoroth,2 Speed,120,50,Slow,15,50.0
+289,Slaking,3 HP,45,50,Slow,15,50.0
+290,Nincada,1 Defense,255,50,Erratic,15,50.0
+291,Ninjask,2 Speed,120,50,Erratic,15,50.0
+292,Shedinja,2 HP,45,50,Erratic,15,
+293,Whismur,1 HP,190,50,Medium Slow,20,50.0
+294,Loudred,2 HP,120,50,Medium Slow,20,50.0
+295,Exploud,3 HP,45,50,Medium Slow,20,50.0
+296,Makuhita,1 HP,180,50,Fluctuating,20,75.0
+297,Hariyama,2 HP,200,50,Fluctuating,20,75.0
+298,Azurill,1 HP,150,50,Fast,10,25.0
+299,Nosepass,1 Defense,255,50,Medium Fast,20,50.0
+300,Skitty,1 Speed,255,50,Fast,15,25.0
+301,Delcatty,"1 HP, 1 Speed",60,50,Fast,15,25.0
+302,Sableye,"1 Attack, 1 Defense",45,35,Medium Slow,25,50.0
+302,Mega Sableye,"1 Attack, 1 Defense",45,35,Medium Slow,25,50.0
+303,Mawile,"1 Attack, 1 Defense",45,50,Fast,20,50.0
+303,Mega Mawile,"1 Attack, 1 Defense",45,50,Fast,20,50.0
+304,Aron,1 Defense,180,35,Slow,35,50.0
+305,Lairon,2 Defense,90,35,Slow,35,50.0
+306,Aggron,3 Defense,45,35,Slow,35,50.0
+306,Mega Aggron,3 Defense,45,35,Slow,35,50.0
+307,Meditite,1 Speed,180,50,Medium Fast,20,50.0
+308,Medicham,2 Speed,90,50,Medium Fast,20,50.0
+308,Mega Medicham,2 Speed,90,50,Medium Fast,20,50.0
+309,Electrike,1 Speed,120,50,Slow,20,50.0
+310,Manectric,2 Speed,45,50,Slow,20,50.0
+310,Mega Manectric,2 Speed,45,50,Slow,20,50.0
+311,Plusle,1 Speed,200,50,Medium Fast,20,50.0
+312,Minun,1 Speed,200,50,Medium Fast,20,50.0
+313,Volbeat,1 Speed,150,50,Erratic,15,100.0
+314,Illumise,1 Speed,150,50,Fluctuating,15,0.0
+315,Roselia,2 Special Attack,150,50,Medium Slow,20,50.0
+316,Gulpin,1 HP,225,50,Fluctuating,20,50.0
+317,Swalot,2 HP,75,50,Fluctuating,20,50.0
+318,Carvanha,1 Attack,225,35,Slow,20,50.0
+319,Sharpedo,2 Attack,60,35,Slow,20,50.0
+319,Mega Sharpedo,2 Attack,60,35,Slow,20,50.0
+320,Wailmer,1 HP,125,50,Fluctuating,40,50.0
+321,Wailord,2 HP,60,50,Fluctuating,40,50.0
+322,Numel,1 Special Attack,255,50,Medium Fast,20,50.0
+323,Camerupt,"1 Attack, 1 Special Attack",150,50,Medium Fast,20,50.0
+323,Mega Camerupt,"1 Attack, 1 Special Attack",150,50,Medium Fast,20,50.0
+324,Torkoal,2 Defense,90,50,Medium Fast,20,50.0
+325,Spoink,1 Special Defense,255,50,Fast,20,50.0
+326,Grumpig,2 Special Defense,60,50,Fast,20,50.0
+327,Spinda,1 Special Attack,255,50,Fast,15,50.0
+328,Trapinch,1 Attack,255,50,Medium Slow,20,50.0
+329,Vibrava,"1 Attack, 1 Speed",120,50,Medium Slow,20,50.0
+330,Flygon,"1 Attack, 2 Speed",45,50,Medium Slow,20,50.0
+331,Cacnea,1 Special Attack,190,35,Medium Slow,20,50.0
+332,Cacturne,"1 Attack, 1 Special Attack",60,35,Medium Slow,20,50.0
+333,Swablu,1 Special Defense,255,50,Erratic,20,50.0
+334,Altaria,2 Special Defense,45,50,Erratic,20,50.0
+334,Mega Altaria,2 Special Defense,45,50,Erratic,20,50.0
+335,Zangoose,2 Attack,90,50,Erratic,20,50.0
+336,Seviper,"1 Attack, 1 Special Attack",90,50,Fluctuating,20,50.0
+337,Lunatone,2 Special Attack,45,50,Fast,25,
+338,Solrock,2 Attack,45,50,Fast,25,
+339,Barboach,1 HP,190,50,Medium Fast,20,50.0
+340,Whiscash,2 HP,75,50,Medium Fast,20,50.0
+341,Corphish,1 Attack,205,50,Fluctuating,15,50.0
+342,Crawdaunt,2 Attack,155,50,Fluctuating,15,50.0
+343,Baltoy,1 Special Defense,255,50,Medium Fast,20,
+344,Claydol,2 Special Defense,90,50,Medium Fast,20,
+345,Lileep,1 Special Defense,45,50,Erratic,30,87.5
+346,Cradily,2 Special Defense,45,50,Erratic,30,87.5
+347,Anorith,1 Attack,45,50,Erratic,30,87.5
+348,Armaldo,2 Attack,45,50,Erratic,30,87.5
+349,Feebas,1 Speed,255,50,Erratic,20,50.0
+350,Milotic,2 Special Defense,60,50,Erratic,20,50.0
+351,Castform,1 HP,45,50,Medium Fast,25,50.0
+351,Castform Sunny Form,1 HP,45,50,Medium Fast,25,50.0
+351,Castform Rainy Form,1 HP,45,50,Medium Fast,25,50.0
+351,Castform Snowy Form,1 HP,45,50,Medium Fast,25,50.0
+352,Kecleon,1 Special Defense,200,50,Medium Slow,20,50.0
+353,Shuppet,1 Attack,225,35,Fast,25,50.0
+354,Banette,2 Attack,45,35,Fast,25,50.0
+354,Mega Banette,2 Attack,45,35,Fast,25,50.0
+355,Duskull,1 Special Defense,190,35,Fast,25,50.0
+356,Dusclops,"1 Defense, 1 Special Defense",90,35,Fast,25,50.0
+357,Tropius,2 HP,200,50,Slow,25,50.0
+358,Chimecho,"1 Special Attack, 1 Special Defense",45,50,Fast,25,50.0
+359,Absol,2 Attack,30,35,Medium Slow,25,50.0
+359,Mega Absol,2 Attack,30,35,Medium Slow,25,50.0
+360,Wynaut,1 HP,125,50,Medium Fast,20,50.0
+361,Snorunt,1 HP,190,50,Medium Fast,20,50.0
+362,Glalie,2 HP,75,50,Medium Fast,20,50.0
+362,Mega Glalie,2 HP,75,50,Medium Fast,20,50.0
+363,Spheal,1 HP,255,50,Medium Slow,20,50.0
+364,Sealeo,2 HP,120,50,Medium Slow,20,50.0
+365,Walrein,3 HP,45,50,Medium Slow,20,50.0
+366,Clamperl,1 Defense,255,50,Erratic,20,50.0
+367,Huntail,"1 Attack, 1 Defense",60,50,Erratic,20,50.0
+368,Gorebyss,2 Special Attack,60,50,Erratic,20,50.0
+369,Relicanth,"1 HP, 1 Defense",25,50,Slow,40,87.5
+370,Luvdisc,1 Speed,225,50,Fast,20,25.0
+371,Bagon,1 Attack,45,35,Slow,40,50.0
+372,Shelgon,2 Defense,45,35,Slow,40,50.0
+373,Salamence,3 Attack,45,35,Slow,40,50.0
+373,Mega Salamence,3 Attack,45,35,Slow,40,50.0
+374,Beldum,1 Defense,3,35,Slow,40,
+375,Metang,2 Defense,3,35,Slow,40,
+376,Metagross,3 Defense,3,35,Slow,40,
+376,Mega Metagross,3 Defense,3,35,Slow,40,
+377,Regirock,3 Defense,3,35,Slow,80,
+378,Regice,3 Special Defense,3,35,Slow,80,
+379,Registeel,"2 Defense, 1 Special Defense",3,35,Slow,80,
+380,Latias,3 Special Defense,3,90,Slow,120,0.0
+380,Mega Latias,3 Special Defense,3,90,Slow,120,0.0
+381,Latios,3 Special Attack,3,90,Slow,120,100.0
+381,Mega Latios,3 Special Attack,3,90,Slow,120,100.0
+382,Kyogre,3 Special Attack,3,0,Slow,120,
+382,Primal Kyogre,3 Special Attack,3,0,Slow,120,
+383,Groudon,3 Attack,3,0,Slow,120,
+383,Primal Groudon,3 Attack,3,0,Slow,120,
+384,Rayquaza,"2 Attack, 1 Special Attack",45,0,Slow,120,
+384,Mega Rayquaza,"2 Attack, 1 Special Attack",45,0,Slow,120,
+385,Jirachi,3 HP,3,100,Slow,120,
+386,Deoxys Normal Forme,"1 Attack, 1 Special Attack, 1 Speed",3,0,Slow,120,
+386,Deoxys Attack Forme,"1 Attack, 1 Special Attack, 1 Speed",3,0,Slow,120,
+386,Deoxys Defense Forme,"1 Attack, 1 Special Attack, 1 Speed",3,0,Slow,120,
+386,Deoxys Speed Forme,"1 Attack, 1 Special Attack, 1 Speed",3,0,Slow,120,
+387,Turtwig,1 Attack,45,50,Medium Slow,20,87.5
+388,Grotle,"1 Attack, 1 Defense",45,50,Medium Slow,20,87.5
+389,Torterra,"2 Attack, 1 Defense",45,50,Medium Slow,20,87.5
+390,Chimchar,1 Speed,45,50,Medium Slow,20,87.5
+391,Monferno,"1 Special Attack, 1 Speed",45,50,Medium Slow,20,87.5
+392,Infernape,"1 Attack, 1 Special Attack, 1 Speed",45,50,Medium Slow,20,87.5
+393,Piplup,1 Special Attack,45,50,Medium Slow,20,87.5
+394,Prinplup,2 Special Attack,45,50,Medium Slow,20,87.5
+395,Empoleon,3 Special Attack,45,50,Medium Slow,20,87.5
+396,Starly,1 Speed,255,50,Medium Slow,15,50.0
+397,Staravia,2 Speed,120,50,Medium Slow,15,50.0
+398,Staraptor,3 Attack,45,50,Medium Slow,15,50.0
+399,Bidoof,1 HP,255,50,Medium Fast,15,50.0
+400,Bibarel,2 Attack,127,50,Medium Fast,15,50.0
+401,Kricketot,1 Defense,255,50,Medium Slow,15,50.0
+402,Kricketune,2 Attack,45,50,Medium Slow,15,50.0
+403,Shinx,1 Attack,235,50,Medium Slow,20,50.0
+404,Luxio,2 Attack,120,100,Medium Slow,20,50.0
+405,Luxray,3 Attack,45,50,Medium Slow,20,50.0
+406,Budew,1 Special Attack,255,50,Medium Slow,20,50.0
+407,Roserade,3 Special Attack,75,50,Medium Slow,20,50.0
+408,Cranidos,1 Attack,45,50,Erratic,30,87.5
+409,Rampardos,2 Attack,45,50,Erratic,30,87.5
+410,Shieldon,1 Defense,45,50,Erratic,30,87.5
+411,Bastiodon,2 Defense,45,50,Erratic,30,87.5
+412,Burmy,1 Special Defense,120,50,Medium Fast,15,50.0
+413,Wormadam Plant Cloak,2 Special Defense,45,50,Medium Fast,15,0.0
+413,Wormadam Sandy Cloak,2 Special Defense,45,50,Medium Fast,15,0.0
+413,Wormadam Trash Cloak,2 Special Defense,45,50,Medium Fast,15,0.0
+414,Mothim,"1 Attack, 1 Special Attack",45,50,Medium Fast,15,100.0
+415,Combee,1 Speed,120,50,Medium Slow,15,87.5
+416,Vespiquen,"1 Defense, 1 Special Defense",45,50,Medium Slow,15,0.0
+417,Pachirisu,1 Speed,200,100,Medium Fast,10,50.0
+418,Buizel,1 Speed,190,50,Medium Fast,20,50.0
+419,Floatzel,2 Speed,75,50,Medium Fast,20,50.0
+420,Cherubi,1 Special Attack,190,50,Medium Fast,20,50.0
+421,Cherrim,2 Special Attack,75,50,Medium Fast,20,50.0
+422,Shellos,1 HP,190,50,Medium Fast,20,50.0
+423,Gastrodon,2 HP,75,50,Medium Fast,20,50.0
+424,Ambipom,2 Speed,45,100,Fast,20,50.0
+425,Drifloon,1 HP,125,50,Fluctuating,30,50.0
+426,Drifblim,2 HP,60,50,Fluctuating,30,50.0
+427,Buneary,1 Speed,190,0,Medium Fast,20,50.0
+428,Lopunny,2 Speed,60,140,Medium Fast,20,50.0
+428,Mega Lopunny,2 Speed,60,140,Medium Fast,20,50.0
+429,Mismagius,"1 Special Attack, 1 Special Defense",45,35,Fast,25,50.0
+430,Honchkrow,2 Attack,30,35,Medium Slow,20,50.0
+431,Glameow,1 Speed,190,50,Fast,20,25.0
+432,Purugly,2 Speed,75,50,Fast,20,25.0
+433,Chingling,1 Special Attack,120,50,Fast,25,50.0
+434,Stunky,1 Speed,225,50,Medium Fast,20,50.0
+435,Skuntank,2 HP,60,50,Medium Fast,20,50.0
+436,Bronzor,1 Defense,255,50,Medium Fast,20,
+437,Bronzong,"1 Defense, 1 Special Defense",90,50,Medium Fast,20,
+438,Bonsly,1 Defense,255,50,Medium Fast,20,50.0
+439,Mime Jr.,1 Special Defense,145,50,Medium Fast,25,50.0
+440,Happiny,1 HP,130,140,Fast,40,0.0
+441,Chatot,1 Attack,30,35,Medium Slow,20,50.0
+442,Spiritomb,"1 Defense, 1 Special Defense",100,50,Medium Fast,30,50.0
+443,Gible,1 Attack,45,50,Slow,40,50.0
+444,Gabite,2 Attack,45,50,Slow,40,50.0
+445,Garchomp,3 Attack,45,50,Slow,40,50.0
+445,Mega Garchomp,3 Attack,45,50,Slow,40,50.0
+446,Munchlax,1 HP,50,50,Slow,40,87.5
+447,Riolu,1 Attack,75,50,Medium Slow,25,87.5
+448,Lucario,"1 Attack, 1 Special Attack",45,50,Medium Slow,25,87.5
+448,Mega Lucario,"1 Attack, 1 Special Attack",45,50,Medium Slow,25,87.5
+449,Hippopotas,1 Defense,140,50,Slow,30,50.0
+450,Hippowdon,2 Defense,60,50,Slow,30,50.0
+451,Skorupi,1 Defense,120,50,Slow,20,50.0
+452,Drapion,2 Defense,45,50,Slow,20,50.0
+453,Croagunk,1 Attack,140,100,Medium Fast,10,50.0
+454,Toxicroak,2 Attack,75,50,Medium Fast,20,50.0
+455,Carnivine,2 Attack,200,50,Slow,25,50.0
+456,Finneon,1 Speed,190,50,Erratic,20,50.0
+457,Lumineon,2 Speed,75,50,Erratic,20,50.0
+458,Mantyke,1 Special Defense,25,50,Slow,25,50.0
+459,Snover,1 Attack,120,50,Slow,20,50.0
+460,Abomasnow,"1 Attack, 1 Special Attack",60,50,Slow,20,50.0
+460,Mega Abomasnow,"1 Attack, 1 Special Attack",60,50,Slow,20,50.0
+461,Weavile,"1 Attack, 1 Speed",45,35,Medium Slow,20,50.0
+462,Magnezone,3 Special Attack,30,50,Medium Fast,20,
+463,Lickilicky,3 HP,30,50,Medium Fast,20,50.0
+464,Rhyperior,3 Attack,30,50,Slow,20,50.0
+465,Tangrowth,2 Defense,30,50,Medium Fast,20,50.0
+466,Electivire,3 Attack,30,50,Medium Fast,25,75.0
+467,Magmortar,3 Special Attack,30,50,Medium Fast,25,75.0
+468,Togekiss,"2 Special Attack, 1 Special Defense",30,50,Fast,10,87.5
+469,Yanmega,2 Attack,30,50,Medium Fast,20,50.0
+470,Leafeon,2 Defense,45,35,Medium Fast,35,87.5
+471,Glaceon,2 Special Attack,45,35,Medium Fast,35,87.5
+472,Gliscor,2 Defense,30,50,Medium Slow,20,50.0
+473,Mamoswine,3 Attack,50,50,Slow,20,50.0
+474,Porygon-Z,3 Special Attack,30,50,Medium Fast,20,
+475,Gallade,3 Attack,45,35,Slow,20,100.0
+475,Mega Gallade,3 Attack,45,35,Slow,20,100.0
+476,Probopass,"1 Defense, 2 Special Defense",60,50,Medium Fast,20,50.0
+477,Dusknoir,"1 Defense, 2 Special Defense",45,35,Fast,25,50.0
+478,Froslass,2 Speed,75,50,Medium Fast,20,0.0
+479,Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+479,Heat Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+479,Wash Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+479,Frost Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+479,Fan Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+479,Mow Rotom,"1 Special Attack, 1 Speed",45,50,Medium Fast,20,
+480,Uxie,"2 Defense, 1 Special Defense",3,140,Slow,80,
+481,Mesprit,"1 Attack, 1 Special Attack, 1 Special Defense",3,140,Slow,80,
+482,Azelf,"2 Attack, 1 Special Attack",3,140,Slow,80,
+483,Dialga,3 Special Attack,3,0,Slow,120,
+484,Palkia,3 Special Attack,3,0,Slow,120,
+485,Heatran,3 Special Attack,3,100,Slow,10,50.0
+486,Regigigas,3 Attack,3,0,Slow,120,
+487,Giratina Altered Forme,3 HP,3,0,Slow,120,
+487,Giratina Origin Forme,3 HP,3,0,Slow,120,
+488,Cresselia,3 Special Defense,3,100,Slow,120,0.0
+489,Phione,1 HP,30,50,Slow,40,
+490,Manaphy,3 HP,3,50,Slow,10,
+491,Darkrai,"2 Special Attack, 1 Speed",3,0,Slow,120,
+492,Shaymin Land Forme,3 HP,45,100,Medium Slow,120,
+492,Shaymin Sky Forme,3 HP,45,100,Medium Slow,120,
+493,Arceus,3 HP,3,0,Slow,120,
+494,Victini,3 HP,3,100,Slow,120,
+495,Snivy,1 Speed,45,50,Medium Slow,20,87.5
+496,Servine,2 Speed,45,50,Medium Slow,20,87.5
+497,Serperior,3 Speed,45,50,Medium Slow,20,87.5
+498,Tepig,1 HP,45,50,Medium Slow,20,87.5
+499,Pignite,2 Attack,45,50,Medium Slow,20,87.5
+500,Emboar,3 Attack,45,50,Medium Slow,20,87.5
+501,Oshawott,1 Special Attack,45,50,Medium Slow,20,87.5
+502,Dewott,2 Special Attack,45,50,Medium Slow,20,87.5
+503,Samurott,3 Special Attack,45,50,Medium Slow,20,87.5
+504,Patrat,1 Attack,255,50,Medium Fast,15,50.0
+505,Watchog,2 Attack,255,50,Medium Fast,20,50.0
+506,Lillipup,1 Attack,255,50,Medium Slow,15,50.0
+507,Herdier,2 Attack,120,50,Medium Slow,15,50.0
+508,Stoutland,3 Attack,45,50,Medium Slow,15,50.0
+509,Purrloin,1 Speed,255,50,Medium Fast,20,50.0
+510,Liepard,2 Speed,90,50,Medium Fast,20,50.0
+511,Pansage,1 Speed,190,50,Medium Fast,20,87.5
+512,Simisage,2 Speed,75,50,Medium Fast,20,87.5
+513,Pansear,1 Speed,190,50,Medium Fast,20,87.5
+514,Simisear,2 Speed,75,50,Medium Fast,20,87.5
+515,Panpour,1 Speed,190,50,Medium Fast,20,87.5
+516,Simipour,2 Speed,75,50,Medium Fast,20,87.5
+517,Munna,1 HP,190,50,Fast,10,50.0
+518,Musharna,2 HP,75,50,Fast,10,50.0
+519,Pidove,1 Attack,255,50,Medium Slow,15,50.0
+520,Tranquill,2 Attack,120,50,Medium Slow,15,50.0
+521,Unfezant,3 Attack,45,50,Medium Slow,15,50.0
+522,Blitzle,1 Speed,190,50,Medium Fast,20,50.0
+523,Zebstrika,2 Speed,75,50,Medium Fast,20,50.0
+524,Roggenrola,1 Defense,255,50,Medium Slow,15,50.0
+525,Boldore,"1 Attack, 1 Defense",120,50,Medium Slow,15,50.0
+526,Gigalith,3 Attack,45,50,Medium Slow,15,50.0
+527,Woobat,1 Speed,190,50,Medium Fast,15,50.0
+528,Swoobat,2 Speed,45,50,Medium Fast,15,50.0
+529,Drilbur,1 Attack,120,50,Medium Fast,20,50.0
+530,Excadrill,2 Attack,60,50,Medium Fast,20,50.0
+531,Audino,2 HP,255,50,Fast,20,50.0
+531,Mega Audino,2 HP,255,50,Fast,20,50.0
+532,Timburr,1 Attack,180,70,Medium Slow,20,75.0
+533,Gurdurr,2 Attack,90,50,Medium Slow,20,75.0
+534,Conkeldurr,3 Attack,45,50,Medium Slow,20,75.0
+535,Tympole,1 Speed,255,50,Medium Slow,20,50.0
+536,Palpitoad,2 HP,120,50,Medium Slow,20,50.0
+537,Seismitoad,3 HP,45,50,Medium Slow,20,50.0
+538,Throh,2 HP,45,50,Medium Fast,20,100.0
+539,Sawk,2 Attack,45,50,Medium Fast,20,100.0
+540,Sewaddle,1 Defense,255,50,Medium Slow,15,50.0
+541,Swadloon,2 Defense,120,50,Medium Slow,15,50.0
+542,Leavanny,3 Attack,45,50,Medium Slow,15,50.0
+543,Venipede,1 Defense,255,50,Medium Slow,15,50.0
+544,Whirlipede,2 Defense,120,50,Medium Slow,15,50.0
+545,Scolipede,3 Speed,45,50,Medium Slow,20,50.0
+546,Cottonee,1 Speed,190,50,Medium Fast,20,50.0
+547,Whimsicott,2 Speed,75,50,Medium Fast,20,50.0
+548,Petilil,1 Special Attack,190,50,Medium Fast,20,0.0
+549,Lilligant,2 Special Attack,75,50,Medium Fast,20,0.0
+550,Basculin Red-Striped Form,2 Speed,25,50,Medium Fast,40,50.0
+550,Basculin Blue-Striped Form,2 Speed,25,50,Medium Fast,40,50.0
+551,Sandile,1 Attack,180,50,Medium Slow,20,50.0
+552,Krokorok,2 Attack,90,50,Medium Slow,20,50.0
+553,Krookodile,3 Attack,45,50,Medium Slow,20,50.0
+554,Darumaka,1 Attack,120,50,Medium Slow,20,50.0
+554,Galarian Darumaka,1 Attack,120,50,Medium Slow,20,50.0
+555,Darmanitan Standard Mode,2 Attack,60,50,Medium Slow,20,50.0
+555,Darmanitan Zen Mode,2 Attack,60,50,Medium Slow,20,50.0
+555,Darmanitan Galarian Standard Mode,2 Attack,60,50,Medium Slow,20,50.0
+555,Darmanitan Galarian Zen Mode,2 Attack,60,50,Medium Slow,20,50.0
+556,Maractus,2 Special Attack,255,50,Medium Fast,20,50.0
+557,Dwebble,1 Defense,190,50,Medium Fast,20,50.0
+558,Crustle,2 Defense,75,50,Medium Fast,20,50.0
+559,Scraggy,1 Attack,180,35,Medium Fast,15,50.0
+560,Scrafty,"1 Defense, 1 Special Defense",90,50,Medium Fast,15,50.0
+561,Sigilyph,2 Special Attack,45,50,Medium Fast,20,50.0
+562,Yamask,1 Defense,190,50,Medium Fast,25,50.0
+562,Galarian Yamask,1 Defense,190,50,Medium Fast,25,50.0
+563,Cofagrigus,2 Defense,90,50,Medium Fast,25,50.0
+564,Tirtouga,1 Defense,45,50,Medium Fast,30,87.5
+565,Carracosta,2 Defense,45,50,Medium Fast,30,87.5
+566,Archen,1 Attack,45,50,Medium Fast,30,87.5
+567,Archeops,2 Attack,45,50,Medium Fast,30,87.5
+568,Trubbish,1 Speed,190,50,Medium Fast,20,50.0
+569,Garbodor,2 Attack,60,50,Medium Fast,20,50.0
+570,Zorua,1 Special Attack,75,50,Medium Slow,25,87.5
+571,Zoroark,2 Special Attack,45,50,Medium Slow,20,87.5
+572,Minccino,1 Speed,255,50,Fast,15,25.0
+573,Cinccino,2 Speed,60,50,Fast,15,25.0
+574,Gothita,1 Special Defense,200,50,Medium Slow,20,25.0
+575,Gothorita,2 Special Defense,100,50,Medium Slow,20,25.0
+576,Gothitelle,3 Special Defense,50,50,Medium Slow,20,25.0
+577,Solosis,1 Special Attack,200,50,Medium Slow,20,50.0
+578,Duosion,2 Special Attack,100,50,Medium Slow,20,50.0
+579,Reuniclus,3 Special Attack,50,50,Medium Slow,20,50.0
+580,Ducklett,1 HP,190,50,Medium Fast,20,50.0
+581,Swanna,2 Speed,45,50,Medium Fast,20,50.0
+582,Vanillite,1 Special Attack,255,50,Slow,20,50.0
+583,Vanillish,2 Special Attack,120,50,Slow,20,50.0
+584,Vanilluxe,3 Special Attack,45,50,Slow,20,50.0
+585,Deerling,1 Speed,190,50,Medium Fast,20,50.0
+586,Sawsbuck,2 Attack,75,50,Medium Fast,20,50.0
+587,Emolga,2 Speed,200,50,Medium Fast,20,50.0
+588,Karrablast,1 Attack,200,50,Medium Fast,15,50.0
+589,Escavalier,2 Attack,75,50,Medium Fast,15,50.0
+590,Foongus,1 HP,190,50,Medium Fast,20,50.0
+591,Amoonguss,2 HP,75,50,Medium Fast,20,50.0
+592,Frillish,1 Special Defense,190,50,Medium Fast,20,50.0
+593,Jellicent,2 Special Defense,60,50,Medium Fast,20,50.0
+594,Alomomola,2 HP,75,50,Fast,40,50.0
+595,Joltik,1 Speed,190,50,Medium Fast,20,50.0
+596,Galvantula,2 Speed,75,50,Medium Fast,20,50.0
+597,Ferroseed,1 Defense,255,50,Medium Fast,20,50.0
+598,Ferrothorn,2 Defense,90,50,Medium Fast,20,50.0
+599,Klink,1 Defense,130,50,Medium Slow,20,
+600,Klang,2 Defense,60,50,Medium Slow,20,
+601,Klinklang,3 Defense,30,50,Medium Slow,20,
+602,Tynamo,1 Speed,190,50,Slow,20,50.0
+603,Eelektrik,2 Attack,60,50,Slow,20,50.0
+604,Eelektross,3 Attack,30,50,Slow,20,50.0
+605,Elgyem,1 Special Attack,255,50,Medium Fast,20,50.0
+606,Beheeyem,2 Special Attack,90,50,Medium Fast,20,50.0
+607,Litwick,1 Special Attack,190,50,Medium Slow,20,50.0
+608,Lampent,2 Special Attack,90,50,Medium Slow,20,50.0
+609,Chandelure,3 Special Attack,45,50,Medium Slow,20,50.0
+610,Axew,1 Attack,75,35,Slow,40,50.0
+611,Fraxure,2 Attack,60,35,Slow,40,50.0
+612,Haxorus,3 Attack,45,35,Slow,40,50.0
+613,Cubchoo,1 Attack,120,50,Medium Fast,20,50.0
+614,Beartic,2 Attack,60,50,Medium Fast,20,50.0
+615,Cryogonal,2 Special Defense,25,50,Medium Fast,25,
+616,Shelmet,1 Defense,200,50,Medium Fast,15,50.0
+617,Accelgor,2 Speed,75,50,Medium Fast,15,50.0
+618,Stunfisk,2 HP,75,70,Medium Fast,20,50.0
+618,Galarian Stunfisk,2 HP,75,70,Medium Fast,20,50.0
+619,Mienfoo,1 Attack,180,50,Medium Slow,25,50.0
+620,Mienshao,2 Attack,45,50,Medium Slow,25,50.0
+621,Druddigon,2 Attack,45,50,Medium Fast,30,50.0
+622,Golett,1 Attack,190,50,Medium Fast,25,
+623,Golurk,2 Attack,90,50,Medium Fast,25,
+624,Pawniard,1 Attack,120,35,Medium Fast,20,50.0
+625,Bisharp,2 Attack,45,35,Medium Fast,20,50.0
+626,Bouffalant,2 Attack,45,50,Medium Fast,20,50.0
+627,Rufflet,1 Attack,190,50,Slow,20,100.0
+628,Braviary,2 Attack,60,50,Slow,20,100.0
+629,Vullaby,1 Defense,190,35,Slow,20,0.0
+630,Mandibuzz,2 Special Attack,60,35,Slow,20,0.0
+631,Heatmor,2 Special Attack,90,50,Medium Fast,20,50.0
+632,Durant,2 Defense,90,50,Medium Fast,20,50.0
+633,Deino,1 Attack,45,35,Slow,40,50.0
+634,Zweilous,2 Attack,45,35,Slow,40,50.0
+635,Hydreigon,3 Special Attack,45,35,Slow,40,50.0
+636,Larvesta,1 Attack,45,50,Slow,40,50.0
+637,Volcarona,3 Special Attack,15,50,Slow,40,50.0
+638,Cobalion,3 Defense,3,35,Slow,80,
+639,Terrakion,3 Attack,3,35,Slow,80,
+640,Virizion,3 Special Defense,3,35,Slow,80,
+641,Tornadus Incarnate Forme,3 Attack,3,90,Slow,120,100.0
+641,Tornadus Therian Forme,3 Attack,3,90,Slow,120,100.0
+642,Thundurus Incarnate Forme,3 Attack,3,90,Slow,120,100.0
+642,Thundurus Therian Forme,3 Attack,3,90,Slow,120,100.0
+643,Reshiram,3 Special Attack,3,0,Slow,120,
+644,Zekrom,3 Attack,3,0,Slow,120,
+645,Landorus Incarnate Forme,3 Special Attack,3,90,Slow,120,100.0
+645,Landorus Therian Forme,3 Special Attack,3,90,Slow,120,100.0
+646,Kyurem,"1 HP, 1 Attack, 1 Special Attack",3,0,Slow,120,
+646,Black Kyurem,"1 HP, 1 Attack, 1 Special Attack",3,0,Slow,120,
+646,White Kyurem,"1 HP, 1 Attack, 1 Special Attack",3,0,Slow,120,
+647,Keldeo Ordinary Form,3 Special Attack,3,35,Slow,80,
+647,Keldeo Resolute Form,3 Special Attack,3,35,Slow,80,
+648,Meloetta Aria Forme,"1 Special Attack, 1 Special Defense, 1 Speed",3,100,Slow,120,
+648,Meloetta Pirouette Forme,"1 Special Attack, 1 Special Defense, 1 Speed",3,100,Slow,120,
+649,Genesect,"1 Attack, 1 Special Attack, 1 Speed",3,0,Slow,120,
+650,Chespin,1 Defense,45,50,Medium Slow,20,87.5
+651,Quilladin,2 Defense,45,50,Medium Slow,20,87.5
+652,Chesnaught,3 Defense,45,50,Medium Slow,20,87.5
+653,Fennekin,1 Special Attack,45,50,Medium Slow,20,87.5
+654,Braixen,2 Special Attack,45,50,Medium Slow,20,87.5
+655,Delphox,3 Special Attack,45,50,Medium Slow,20,87.5
+656,Froakie,1 Speed,45,50,Medium Slow,20,87.5
+657,Frogadier,2 Speed,45,50,Medium Slow,20,87.5
+658,Greninja,3 Speed,45,50,Medium Slow,20,87.5
+658,Ash-Greninja,3 Speed,45,50,Medium Slow,20,87.5
+659,Bunnelby,1 Speed,255,50,Medium Fast,15,50.0
+660,Diggersby,2 HP,127,50,Medium Fast,15,50.0
+661,Fletchling,1 Speed,255,50,Medium Slow,15,50.0
+662,Fletchinder,2 Speed,120,50,Medium Slow,15,50.0
+663,Talonflame,3 Speed,45,50,Medium Slow,15,50.0
+664,Scatterbug,1 Defense,255,50,Medium Fast,15,50.0
+665,Spewpa,2 Defense,120,50,Medium Fast,15,50.0
+666,Vivillon,"1 HP, 1 Special Attack, 1 Speed",45,50,Medium Fast,15,50.0
+667,Litleo,1 Special Attack,220,50,Medium Slow,20,12.5
+668,Pyroar,2 Special Attack,65,50,Medium Slow,20,12.5
+669,Flabébé,1 Special Defense,225,50,Medium Fast,20,0.0
+670,Floette,2 Special Defense,120,50,Medium Fast,20,0.0
+671,Florges,3 Special Defense,45,50,Medium Fast,20,0.0
+672,Skiddo,1 HP,200,50,Medium Fast,20,50.0
+673,Gogoat,2 HP,45,50,Medium Fast,20,50.0
+674,Pancham,1 Attack,220,50,Medium Fast,25,50.0
+675,Pangoro,2 Attack,65,50,Medium Fast,25,50.0
+676,Furfrou,1 Speed,160,50,Medium Fast,20,50.0
+677,Espurr,1 Speed,190,50,Medium Fast,20,50.0
+678,Meowstic Male,2 Speed,75,50,Medium Fast,20,100.0
+678,Meowstic Female,2 Speed,75,50,Medium Fast,20,100.0
+679,Honedge,1 Defense,180,50,Medium Fast,20,50.0
+680,Doublade,2 Defense,90,50,Medium Fast,20,50.0
+681,Aegislash Shield Forme,"2 Defense, 1 Special Defense",45,50,Medium Fast,20,50.0
+681,Aegislash Blade Forme,"2 Defense, 1 Special Defense",45,50,Medium Fast,20,50.0
+682,Spritzee,1 HP,200,50,Medium Fast,20,50.0
+683,Aromatisse,2 HP,140,50,Medium Fast,20,50.0
+684,Swirlix,1 Defense,200,50,Medium Fast,20,50.0
+685,Slurpuff,2 Defense,140,50,Medium Fast,20,50.0
+686,Inkay,1 Attack,190,50,Medium Fast,20,50.0
+687,Malamar,2 Attack,80,50,Medium Fast,20,50.0
+688,Binacle,1 Attack,120,50,Medium Fast,20,50.0
+689,Barbaracle,2 Attack,45,50,Medium Fast,20,50.0
+690,Skrelp,1 Special Defense,225,50,Medium Fast,20,50.0
+691,Dragalge,2 Special Defense,55,50,Medium Fast,20,50.0
+692,Clauncher,1 Special Attack,225,50,Slow,15,50.0
+693,Clawitzer,2 Special Attack,55,50,Slow,15,50.0
+694,Helioptile,1 Speed,190,50,Medium Fast,20,50.0
+695,Heliolisk,"1 Special Attack, 1 Speed",75,50,Medium Fast,20,50.0
+696,Tyrunt,1 Attack,45,50,Medium Fast,30,87.5
+697,Tyrantrum,2 Attack,45,50,Medium Fast,30,87.5
+698,Amaura,1 HP,45,50,Medium Fast,30,87.5
+699,Aurorus,2 HP,45,50,Medium Fast,30,87.5
+700,Sylveon,2 Special Defense,45,50,Medium Fast,35,87.5
+701,Hawlucha,2 Attack,100,50,Medium Fast,20,50.0
+702,Dedenne,2 Speed,180,50,Medium Fast,20,50.0
+703,Carbink,"1 Defense, 1 Special Defense",60,50,Slow,25,
+704,Goomy,1 Special Defense,45,35,Slow,40,50.0
+705,Sliggoo,2 Special Defense,45,35,Slow,40,50.0
+706,Goodra,3 Special Defense,45,35,Slow,40,50.0
+707,Klefki,1 Defense,75,50,Fast,20,50.0
+708,Phantump,1 Attack,120,50,Medium Fast,20,50.0
+709,Trevenant,2 Attack,60,50,Medium Fast,20,50.0
+710,Pumpkaboo Average Size,1 Defense,120,50,Medium Fast,20,50.0
+710,Pumpkaboo Small Size,1 Defense,120,50,Medium Fast,20,50.0
+710,Pumpkaboo Large Size,1 Defense,120,50,Medium Fast,20,50.0
+710,Pumpkaboo Super Size,1 Defense,120,50,Medium Fast,20,50.0
+711,Gourgeist Average Size,2 Defense,60,50,Medium Fast,20,50.0
+711,Gourgeist Small Size,2 Defense,60,50,Medium Fast,20,50.0
+711,Gourgeist Large Size,2 Defense,60,50,Medium Fast,20,50.0
+711,Gourgeist Super Size,2 Defense,60,50,Medium Fast,20,50.0
+712,Bergmite,1 Defense,190,50,Medium Fast,20,50.0
+713,Avalugg,2 Defense,55,50,Medium Fast,20,50.0
+714,Noibat,1 Speed,190,50,Medium Fast,20,50.0
+715,Noivern,2 Speed,45,50,Medium Fast,20,50.0
+716,Xerneas,3 HP,45,0,Slow,120,
+717,Yveltal,3 HP,45,0,Slow,120,
+718,Zygarde 50% Forme,3 HP,3,0,Slow,120,
+718,Zygarde 10% Forme,3 HP,3,0,Slow,120,
+718,Zygarde Complete Forme,3 HP,3,0,Slow,120,
+719,Diancie,"1 Defense, 2 Special Defense",3,50,Slow,25,
+719,Mega Diancie,"1 Defense, 2 Special Defense",3,50,Slow,25,
+720,Hoopa Confined,3 Special Attack,3,100,Slow,120,
+720,Hoopa Unbound,3 Special Attack,3,100,Slow,120,
+721,Volcanion,3 Special Attack,3,100,Slow,120,
+722,Rowlet,1 HP,45,50,Medium Slow,15,87.5
+723,Dartrix,2 HP,45,50,Medium Slow,15,87.5
+724,Decidueye,3 Attack,45,50,Medium Slow,15,87.5
+725,Litten,1 Speed,45,50,Medium Slow,15,87.5
+726,Torracat,2 Speed,45,50,Medium Slow,15,87.5
+727,Incineroar,3 Attack,45,50,Medium Slow,15,87.5
+728,Popplio,1 Special Attack,45,50,Medium Slow,15,87.5
+729,Brionne,2 Special Attack,45,50,Medium Slow,15,87.5
+730,Primarina,3 Special Attack,45,50,Medium Slow,15,87.5
+731,Pikipek,1 Attack,255,50,Medium Fast,15,50.0
+732,Trumbeak,2 Attack,120,50,Medium Fast,15,50.0
+733,Toucannon,3 Attack,45,50,Medium Fast,15,50.0
+734,Yungoos,1 Attack,255,50,Medium Fast,15,50.0
+735,Gumshoos,2 Attack,127,50,Medium Fast,15,50.0
+736,Grubbin,1 Attack,255,50,Medium Fast,15,50.0
+737,Charjabug,2 Defense,120,50,Medium Fast,15,50.0
+738,Vikavolt,3 Special Attack,45,50,Medium Fast,15,50.0
+739,Crabrawler,1 Attack,225,50,Medium Fast,20,50.0
+740,Crabominable,2 Attack,60,50,Medium Fast,20,50.0
+741,Oricorio Baile Style,2 Special Attack,45,50,Medium Fast,20,25.0
+741,Oricorio Pom-Pom Style,2 Special Attack,45,50,Medium Fast,20,25.0
+741,Oricorio Pa'u Style,2 Special Attack,45,50,Medium Fast,20,25.0
+741,Oricorio Sensu Style,2 Special Attack,45,50,Medium Fast,20,25.0
+742,Cutiefly,1 Speed,190,50,Medium Fast,20,50.0
+743,Ribombee,2 Speed,75,50,Medium Fast,20,50.0
+744,Rockruff,1 Attack,190,50,Medium Fast,15,50.0
+744,Own Tempo Rockruff,1 Attack,190,50,Medium Fast,15,50.0
+745,Lycanroc Midday Form,2 Attack,90,50,Medium Fast,15,50.0
+745,Lycanroc Midnight Form,2 Attack,90,50,Medium Fast,15,50.0
+745,Lycanroc Dusk Form,2 Attack,90,50,Medium Fast,15,50.0
+746,Wishiwashi Solo Form,1 HP,60,50,Fast,15,50.0
+746,Wishiwashi School Form,1 HP,60,50,Fast,15,50.0
+747,Mareanie,1 Defense,190,50,Medium Fast,20,50.0
+748,Toxapex,2 Defense,75,50,Medium Fast,20,50.0
+749,Mudbray,1 Attack,190,50,Medium Fast,20,50.0
+750,Mudsdale,2 Attack,60,50,Medium Fast,20,50.0
+751,Dewpider,1 Special Defense,200,50,Medium Fast,15,50.0
+752,Araquanid,2 Special Defense,100,50,Medium Fast,15,50.0
+753,Fomantis,1 Attack,190,50,Medium Fast,20,50.0
+754,Lurantis,2 Attack,75,50,Medium Fast,20,50.0
+755,Morelull,1 Special Defense,190,50,Medium Fast,20,50.0
+756,Shiinotic,2 Special Defense,75,50,Medium Fast,20,50.0
+757,Salandit,1 Speed,120,50,Medium Fast,20,87.5
+758,Salazzle,2 Speed,45,50,Medium Fast,20,0.0
+759,Stufful,1 Attack,140,50,Medium Fast,15,50.0
+760,Bewear,2 Attack,70,50,Medium Fast,15,50.0
+761,Bounsweet,1 HP,235,50,Medium Slow,20,0.0
+762,Steenee,2 Speed,120,50,Medium Slow,20,0.0
+763,Tsareena,3 Attack,45,50,Medium Slow,20,0.0
+764,Comfey,2 Special Defense,60,50,Fast,20,25.0
+765,Oranguru,2 Special Defense,45,50,Slow,20,50.0
+766,Passimian,2 Attack,45,50,Slow,20,50.0
+767,Wimpod,1 Speed,90,50,Medium Fast,20,50.0
+768,Golisopod,2 Defense,45,50,Medium Fast,20,50.0
+769,Sandygast,1 Defense,140,50,Medium Fast,15,50.0
+770,Palossand,2 Defense,60,50,Medium Fast,15,50.0
+771,Pyukumuku,2 Special Defense,60,50,Fast,15,50.0
+772,Type: Null,2 HP,3,0,Slow,120,
+773,Silvally,3 HP,3,0,Slow,120,
+774,Minior Meteor Form,"1 Defense, 1 Special Defense",30,50,Medium Slow,25,
+774,Minior Core Form,"1 Defense, 1 Special Defense",30,50,Medium Slow,25,
+775,Komala,2 Attack,45,50,Slow,20,50.0
+776,Turtonator,2 Defense,70,50,Medium Fast,20,50.0
+777,Togedemaru,2 Attack,180,50,Medium Fast,10,50.0
+778,Mimikyu,2 Special Defense,45,50,Medium Fast,20,50.0
+779,Bruxish,2 Attack,80,50,Medium Fast,15,50.0
+780,Drampa,2 Special Attack,70,50,Medium Fast,20,50.0
+781,Dhelmise,2 Attack,25,50,Medium Fast,25,
+782,Jangmo-o,1 Defense,45,50,Slow,40,50.0
+783,Hakamo-o,2 Defense,45,50,Slow,40,50.0
+784,Kommo-o,3 Defense,45,50,Slow,40,50.0
+785,Tapu Koko,3 Speed,3,50,Slow,15,
+786,Tapu Lele,3 Special Attack,3,50,Slow,15,
+787,Tapu Bulu,3 Attack,3,50,Slow,15,
+788,Tapu Fini,3 Special Defense,3,50,Slow,15,
+789,Cosmog,1 HP,45,0,Slow,120,
+790,Cosmoem,"1 Defense, 1 Special Defense",45,0,Slow,120,
+791,Solgaleo,3 Attack,45,0,Slow,120,
+792,Lunala,3 Special Attack,45,0,Slow,120,
+793,Nihilego,3 Special Defense,45,0,Slow,120,
+794,Buzzwole,"1 Attack, 2 Defense",45,0,Slow,120,
+795,Pheromosa,3 Speed,45,0,Slow,120,
+796,Xurkitree,3 Special Attack,45,0,Slow,120,
+797,Celesteela,"1 Attack, 1 Defense, 1 Special Attack",45,0,Slow,120,
+798,Kartana,3 Attack,45,0,Slow,120,
+799,Guzzlord,3 HP,45,0,Slow,120,
+800,Necrozma,"1 Attack, 2 Special Attack",255,0,Slow,120,
+800,Dusk Mane Necrozma,"1 Attack, 2 Special Attack",255,0,Slow,120,
+800,Dawn Wings Necrozma,"1 Attack, 2 Special Attack",255,0,Slow,120,
+800,Ultra Necrozma,"1 Attack, 2 Special Attack",255,0,Slow,120,
+801,Magearna,3 Special Attack,3,0,Slow,120,
+802,Marshadow,"2 Attack, 1 Speed",3,0,Slow,120,
+803,Poipole,1 Speed,45,0,Slow,120,
+804,Naganadel,3 Special Attack,45,0,Slow,120,
+805,Stakataka,3 Defense,30,0,Slow,120,
+806,Blacephalon,3 Special Attack,30,0,Slow,120,
+807,Zeraora,3 Speed,3,0,Slow,120,
+808,Meltan,1 Attack,3,0,Slow,120,
+809,Melmetal,3 Attack,3,0,Slow,120,
+810,Grookey,1 Attack,45,50,Medium Slow,20,87.5
+811,Thwackey,2 Attack,45,50,Medium Slow,20,87.5
+812,Rillaboom,3 Attack,45,50,Medium Slow,20,87.5
+813,Scorbunny,1 Speed,45,50,Medium Slow,20,87.5
+814,Raboot,2 Speed,45,50,Medium Slow,20,87.5
+815,Cinderace,3 Speed,45,50,Medium Slow,20,87.5
+816,Sobble,"1 Special Defense, 1 Speed",45,50,Medium Slow,20,87.5
+817,Drizzile,2 Special Attack,45,50,Medium Slow,20,87.5
+818,Inteleon,3 Speed,45,50,Medium Slow,20,87.5
+819,Skwovet,1 HP,255,50,Medium Fast,20,50.0
+820,Greedent,2 HP,90,50,Medium Fast,20,50.0
+821,Rookidee,1 Speed,255,50,Medium Slow,15,50.0
+822,Corvisquire,2 Speed,120,50,Medium Slow,15,50.0
+823,Corviknight,3 Defense,45,50,Medium Slow,15,50.0
+824,Blipbug,1 Special Defense,255,50,Medium Fast,15,50.0
+825,Dottler,2 Special Defense,120,50,Medium Fast,15,50.0
+826,Orbeetle,3 Special Defense,45,50,Medium Fast,15,50.0
+827,Nickit,1 Special Defense,255,50,Fast,15,50.0
+828,Thievul,2 Special Defense,127,50,Fast,15,50.0
+829,Gossifleur,1 Special Defense,190,50,Medium Fast,20,50.0
+830,Eldegoss,2 Special Defense,75,50,Medium Fast,20,50.0
+831,Wooloo,1 Defense,255,50,Medium Fast,15,50.0
+832,Dubwool,2 Defense,127,50,Medium Fast,15,50.0
+833,Chewtle,1 Attack,255,50,Medium Fast,20,50.0
+834,Drednaw,2 Attack,75,50,Medium Fast,20,50.0
+835,Yamper,1 HP,255,50,Fast,20,50.0
+836,Boltund,2 Speed,45,50,Fast,20,50.0
+837,Rolycoly,1 Defense,255,50,Medium Slow,15,50.0
+838,Carkol,2 Defense,120,50,Medium Slow,15,50.0
+839,Coalossal,3 Defense,45,50,Medium Slow,15,50.0
+840,Applin,1 Defense,255,50,Erratic,20,50.0
+841,Flapple,2 Attack,45,50,Erratic,20,50.0
+842,Appletun,2 HP,45,50,Erratic,20,50.0
+843,Silicobra,1 Defense,255,50,Medium Fast,20,50.0
+844,Sandaconda,2 Defense,120,50,Medium Fast,20,50.0
+845,Cramorant,2 Special Defense,45,50,Medium Fast,20,50.0
+846,Arrokuda,1 Speed,255,50,Slow,20,50.0
+847,Barraskewda,2 Speed,60,50,Slow,20,50.0
+848,Toxel,1 Special Attack,75,50,Medium Slow,25,50.0
+849,Toxtricity Low Key Form,2 Special Attack,45,50,Medium Slow,25,50.0
+849,Toxtricity Amped Form,2 Special Attack,45,50,Medium Slow,25,50.0
+850,Sizzlipede,1 Attack,190,50,Medium Fast,20,50.0
+851,Centiskorch,2 Attack,75,50,Medium Fast,20,50.0
+852,Clobbopus,1 Attack,180,50,Medium Slow,25,50.0
+853,Grapploct,2 Attack,45,50,Medium Slow,25,50.0
+854,Sinistea,1 Special Attack,120,50,Medium Fast,20,
+855,Polteageist,2 Special Attack,60,50,Medium Fast,20,
+856,Hatenna,1 Special Attack,235,50,Slow,20,0.0
+857,Hattrem,2 Special Attack,120,50,Slow,20,0.0
+858,Hatterene,3 Special Attack,45,50,Slow,20,0.0
+859,Impidimp,1 Special Attack,255,50,Medium Fast,20,100.0
+860,Morgrem,2 Special Attack,120,50,Medium Fast,20,100.0
+861,Grimmsnarl,3 Attack,45,50,Medium Fast,20,100.0
+862,Obstagoon,3 Defense,45,50,Medium Fast,15,50.0
+863,Perrserker,2 Attack,90,50,Medium Fast,20,50.0
+864,Cursola,2 Special Attack,30,50,Fast,20,25.0
+865,Sirfetch'd,2 Attack,45,50,Medium Fast,20,50.0
+866,Mr. Rime,3 Special Attack,45,50,Medium Fast,25,50.0
+867,Runerigus,2 Defense,90,50,Medium Fast,25,50.0
+868,Milcery,1 Special Defense,200,50,Medium Fast,20,0.0
+869,Alcremie,2 Special Defense,100,50,Medium Fast,20,0.0
+870,Falinks,"2 Attack, 1 Special Defense",45,50,Medium Fast,25,
+871,Pincurchin,2 Attack,75,50,Medium Fast,20,50.0
+872,Snom,1 Special Attack,190,50,Medium Fast,20,50.0
+873,Frosmoth,2 Special Attack,75,50,Medium Fast,20,50.0
+874,Stonjourner,2 Defense,60,50,Slow,25,50.0
+875,Eiscue Ice Face,2 Defense,60,50,Slow,25,50.0
+875,Eiscue Noice Face,2 Defense,60,50,Slow,25,50.0
+876,Indeedee Male,2 Special Attack,30,140,Fast,40,100.0
+876,Indeedee Female,2 Special Attack,30,140,Fast,40,100.0
+877,Morpeko Full Belly Mode,2 Speed,180,50,Medium Fast,10,50.0
+877,Morpeko Hangry Mode,2 Speed,180,50,Medium Fast,10,50.0
+878,Cufant,1 Attack,190,50,Medium Fast,25,50.0
+879,Copperajah,2 Attack,90,50,Medium Fast,25,50.0
+880,Dracozolt,2 Attack,45,50,Slow,35,
+881,Arctozolt,2 Attack,45,50,Slow,35,
+882,Dracovish,2 Defense,45,50,Slow,35,
+883,Arctovish,2 Defense,45,50,Slow,35,
+884,Duraludon,2 Special Attack,45,50,Medium Fast,30,50.0
+885,Dreepy,1 Speed,45,50,Slow,40,50.0
+886,Drakloak,2 Speed,45,50,Slow,40,50.0
+887,Dragapult,3 Speed,45,50,Slow,40,50.0
+888,Zacian Crowned Sword,3 Speed,10,0,Slow,120,
+888,Zacian Hero of Many Battles,3 Speed,10,0,Slow,120,
+889,Zamazenta Crowned Shield,3 Speed,10,0,Slow,120,
+889,Zamazenta Hero of Many Battles,3 Speed,10,0,Slow,120,
+890,Eternatus,3 HP,255,0,Slow,120,
+890,Eternatus Eternamax,3 HP,255,0,Slow,120,
+891,Kubfu,1 Attack,3,50,Slow,120,87.5
+892,Urshifu Single Strike Style,3 Attack,3,50,Slow,120,87.5
+892,Urshifu Rapid Strike Style,3 Attack,3,50,Slow,120,87.5
+893,Zarude,3 Attack,3,0,Slow,120,
+894,Regieleki,3 Speed,3,35,Slow,120,
+895,Regidrago,3 HP,3,35,Slow,120,
+896,Glastrier,3 Attack,3,35,Slow,120,
+897,Spectrier,3 Special Attack,3,35,Slow,120,
+898,Calyrex,3 HP,3,100,Slow,120,
+898,Calyrex Ice Rider,3 HP,3,100,Slow,120,
+898,Calyrex Shadow Rider,3 HP,3,100,Slow,120,
